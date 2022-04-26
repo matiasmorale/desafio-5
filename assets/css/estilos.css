@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/thumb-1920-749807.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -24,7 +24,7 @@ body {
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #804000;
 }
 
 @media (max-width: 768px) {
